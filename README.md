@@ -1,5 +1,3 @@
-# README.md
-
 <h1 align="center">Hi 👋, I'm Aditya (YEET) Sinha</h1>
 
 <h3 align="center">
