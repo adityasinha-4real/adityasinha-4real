@@ -1,39 +1,149 @@
-<h1 align="center">Hi 👋, I'm ADITYA (YEET) SINHA</h1>
-<h3 align="center">Intern at DRDL-DRDO | Final Year CSE Student at VIT Vellore | AI/ML Engineer | Full-Stack Developer | Building Real-World AI Systems</h3>
+# README.md
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasinha-4real&label=Profile%20views&color=0e75b6&style=flat" alt="adityasinha-4real" /> </p>
+<h1 align="center">Hi 👋, I'm Aditya (YEET) Sinha</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasinha-4real" alt="adityasinha-4real" /></a> </p>
+<h3 align="center">
+AI/ML Engineer • Full-Stack Developer • DRDL Intern • Final Year CSE @ VIT Vellore
+</h3>
 
-- 🔭 I’m currently working on [AI Project Auditor](https://github.com/adityasinha-4real/ai-project-auditor)
-
-- 🌱 I’m currently learning **Advanced System Design, LLM Engineering, MLOps & Cloud Deployment**
-
-- 👯 I’m looking to collaborate on **AI/ML, Open Source & Full-Stack Projects**
-
-- 👨‍💻 All of my projects are available at [<<--to be updated and deployed-->>](<<--to be updated and deployed-->>)
-
-- 📄 Know about my experiences [https://adityasinha-4real.github.io/resume/](https://adityasinha-4real.github.io/resume/)
-
-- 💬 Ask me about **Python, FastAPI, React, AI Agents, LLMs and ML/DL/RL**
-
-- 📫 How to reach me **adisinha1008@gmail.com**
-
-- ⚡ Fun fact [Messi Bhakt](Messi Bhakt)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adityas_4real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas_4real" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-1008-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-1008-sinha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adityasinha1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityasinha1008" height="30" width="40" /></a>
-<a href="https://discord.gg/syndicateyeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="syndicateyeet" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityasinha-4real&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="250" alt="Pixel Cat">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasinha-4real&show_icons=true&locale=en&layout=compact" alt="adityasinha-4real" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasinha-4real&show_icons=true&locale=en" alt="adityasinha-4real" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasinha-4real&" alt="adityasinha-4real" /></p>
+* 🔭 Currently building **AI Project Auditor**
+* 🌱 Learning **System Design, LLM Engineering, MLOps, Cloud Deployment & AI Agents**
+* 👯 Open to collaborating on **AI/ML, Open Source, and Full-Stack Projects**
+* 💬 Ask me about **Python, FastAPI, React, AI Agents, LLMs, Machine Learning & Deep Learning**
+* 📄 Resume: **https://adityasinha-4real.github.io/resume/**
+* 📫 Reach me at: **[adisinha1008@gmail.com](mailto:adisinha1008@gmail.com)**
+* ⚡ Fun Fact: **When I'm not coding, I'm probably watching football**
+
+---
+
+## 🎯 Current Focus
+
+* Building production-grade AI applications
+* Developing AI Project Auditor
+* Exploring LLM-powered systems and AI agents
+* Strengthening System Design and MLOps skills
+* Preparing for AI Engineer and Software Engineer roles
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Project Auditor
+
+AI-powered platform that analyzes software projects, identifies issues, generates reports, and provides actionable recommendations.
+
+### 📄 ATS Resume Checker
+
+Resume evaluation system that performs JD matching, resume scoring, and recruitment-focused analysis.
+
+### 📡 Telemetry Data Analysis Tool
+
+Desktop application developed during DRDL internship for telemetry data processing, filtering, visualization, and analysis.
+
+### 🎤 AI Interview Platform
+
+Real-time AI-powered mock interview platform with automated evaluation and feedback.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aditya-1008-sinha" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/adityasinha1008" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+<a href="https://discord.gg/syndicateyeet" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/adityas_4real" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,firebase,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityasinha-4real&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasinha-4real&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinha-4real&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 Current Goals
+
+* Contribute to impactful open-source projects
+* Build scalable AI-powered products
+* Master LLM application development
+* Deepen expertise in System Design and Cloud Infrastructure
+* Secure a strong Software Engineering / AI Engineering role
+
+---
+
+<p align="center">
+  <i>"First solve the problem. Then write the code."</i>
+</p>
