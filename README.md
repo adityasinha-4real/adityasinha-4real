@@ -21,6 +21,7 @@ AI/ML Engineer • Full-Stack Developer • DRDL Intern • Final Year CSE @ VIT
 * 👯 Open to collaborating on **AI/ML, Open Source, and Full-Stack Projects**
 * 💬 Ask me about **Python, FastAPI, React, AI Agents, LLMs, Machine Learning & Deep Learning**
 * 📄 Resume: **https://adityasinha-4real.github.io/resume/**
+* 👽 Portfolio: **https://adityasinha-dev.vercel.app/**
 * 📫 Reach me at: **[adisinha1008@gmail.com](mailto:adisinha1008@gmail.com)**
 * ⚡ Fun Fact: **When I'm not coding, I'm probably watching football**
 
