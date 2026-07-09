@@ -43,10 +43,10 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🤖 [**AI Project Auditor**](#) | AI-powered platform that analyzes software projects, identifies issues, generates reports, and provides actionable recommendations. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-black?style=flat) |
-| 📄 [**ATS Resume Checker**](#) | Resume evaluation system that performs JD matching, resume scoring, and recruitment-focused analysis. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-black?style=flat) |
-| 📡 [**Telemetry Data Analysis Tool**](#) | Desktop application built during DRDL internship for telemetry data processing, filtering, visualization, and analysis. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Data Viz](https://img.shields.io/badge/-DataViz-orange?style=flat) |
-| 🎤 [**AI Interview Platform**](#) | Real-time AI-powered mock interview platform with automated evaluation and feedback. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![AI](https://img.shields.io/badge/-AI-black?style=flat) |
+| 🤖 [**AI Project Auditor**](https://github.com/adityasinha-4real/ai-project-auditor) | Turns any GitHub repo into a career asset package — resume bullets, docs, interview prep, and code-review reports — via a multi-agent AI pipeline with real-time SSE streaming, OAuth, and Celery workers. | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,postgres,redis,docker" /> |
+| 📄 [**ATS Resume Checker**](https://github.com/adityasinha-4real/ats-checker-personal) | Fully local ATS resume checker — weighted 5-dimension scoring, keyword/skills matching, missing-keyword detection, and bulk candidate ranking. No cloud, no paid APIs. | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,tailwind" /> |
+| 🔁 [**Self-RAG**](https://github.com/adityasinha-4real/selfRAG) | Prompt-based reproduction of the Self-RAG paper's inference loop (retrieve → critique → refine) with hybrid dense+BM25 retrieval, RRF fusion, cross-encoder reranking, and an explainable-AI demo. No fine-tuning. | <img src="https://skillicons.dev/icons?i=python,fastapi,docker" /> |
+| 👁️ [**DR Detection**](https://github.com/adityasinha-4real/dr_detection) | Deep-learning system that analyzes retinal images to detect and classify stages of diabetic retinopathy, with Grad-CAM explainability and an evaluation dashboard. | <img src="https://skillicons.dev/icons?i=python,pytorch" /> |
 
 ---
 
