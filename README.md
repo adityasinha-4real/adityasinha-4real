@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4ow9G7ftCJvUoIU8FL/giphy.gif" width="250" alt="Haaland side-eye">
+  <img src="https://giphy.com/gifs/mls-messi-lionel-leo-xkUaoiq0k01ivAPHRo">
 </p>
 
 ---
