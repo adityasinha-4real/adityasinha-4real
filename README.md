@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya (YEET) Sinha</h1>
 
-<h3 align="center">
-AI/ML Engineer • Full-Stack Developer • DRDL Intern • Final Year CSE @ VIT Vellore
-</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;DRDL+Intern;Final+Year+CSE+%40+VIT+Vellore" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasinha-4real&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -25,6 +27,10 @@ AI/ML Engineer • Full-Stack Developer • DRDL Intern • Final Year CSE @ VIT
 * 📫 Reach me at: **[adisinha1008@gmail.com](mailto:adisinha1008@gmail.com)**
 * ⚡ Fun Fact: **When I'm not coding, I'm probably watching football**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="280" alt="This is fine coding meme">
+</p>
+
 ---
 
 ## 🎯 Current Focus
@@ -39,21 +45,12 @@ AI/ML Engineer • Full-Stack Developer • DRDL Intern • Final Year CSE @ VIT
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Project Auditor
-
-AI-powered platform that analyzes software projects, identifies issues, generates reports, and provides actionable recommendations.
-
-### 📄 ATS Resume Checker
-
-Resume evaluation system that performs JD matching, resume scoring, and recruitment-focused analysis.
-
-### 📡 Telemetry Data Analysis Tool
-
-Desktop application developed during DRDL internship for telemetry data processing, filtering, visualization, and analysis.
-
-### 🎤 AI Interview Platform
-
-Real-time AI-powered mock interview platform with automated evaluation and feedback.
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🤖 [**AI Project Auditor**](#) | AI-powered platform that analyzes software projects, identifies issues, generates reports, and provides actionable recommendations. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-black?style=flat) |
+| 📄 [**ATS Resume Checker**](#) | Resume evaluation system that performs JD matching, resume scoring, and recruitment-focused analysis. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-black?style=flat) |
+| 📡 [**Telemetry Data Analysis Tool**](#) | Desktop application built during DRDL internship for telemetry data processing, filtering, visualization, and analysis. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Data Viz](https://img.shields.io/badge/-DataViz-orange?style=flat) |
+| 🎤 [**AI Interview Platform**](#) | Real-time AI-powered mock interview platform with automated evaluation and feedback. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![AI](https://img.shields.io/badge/-AI-black?style=flat) |
 
 ---
 
