@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM2eDBudjdzczY4ZzkyaDRsbHAwc3Zyemg4cjhndjZxMjVzbGJqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCTWCtcmzmqGKggbip/giphy.gif" width="250" alt="Meme GIF">
+  <img src="https://media.giphy.com/media/4ow9G7ftCJvUoIU8FL/giphy.gif" width="250" alt="Haaland side-eye">
 </p>
 
 ---
