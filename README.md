@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="250" alt="Pixel Cat">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM2eDBudjdzczY4ZzkyaDRsbHAwc3Zyemg4cjhndjZxMjVzbGJqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCTWCtcmzmqGKggbip/giphy.gif" width="250" alt="Meme GIF">
 </p>
 
 ---
@@ -26,10 +26,6 @@
 * 👽 Portfolio: **https://adityasinha-dev.vercel.app/**
 * 📫 Reach me at: **[adisinha1008@gmail.com](mailto:adisinha1008@gmail.com)**
 * ⚡ Fun Fact: **When I'm not coding, I'm probably watching football**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="280" alt="This is fine coding meme">
-</p>
 
 ---
 
