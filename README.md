@@ -27,6 +27,24 @@
 * 📫 Reach me at: **[adisinha1008@gmail.com](mailto:adisinha1008@gmail.com)**
 * ⚡ Fun Fact: **When I'm not coding, I'm probably watching football**
 
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-1008-sinha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adisinha1008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.leetcode.com/adityasinha1008" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://adityasinha-4real.github.io/resume/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://adityasinha-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 🎯 Current Focus
