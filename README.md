@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/mls-messi-lionel-leo-xkUaoiq0k01ivAPHRo" width="250" alt="Leo No No No">
+  <img src="https://media.giphy.com/media/xkUaoiq0k01ivAPHRo/giphy.gif" width="250" alt="Leo No No No">
 </p>
 
 ---
