@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tenor.com/view/messi-messi-crying-messi-nod-messi-nodding-lionel-messi-gif-4792194395266147441">
-    <img src="https://media1.tenor.com/m/4792194395266147441.gif" width="250" alt="Messi Nodding">
+  <a href="https://giphy.com/gifs/argentina-messi-messi10-ulOyRvC0PmUleOOtKw">
+    <img src="https://media.giphy.com/media/ulOyRvC0PmUleOOtKw/giphy.gif" width="250" alt="Messi">
   </a>
 </p>
 
