@@ -58,12 +58,12 @@
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🤖 [**AI Project Auditor**](https://github.com/adityasinha-4real/ai-project-auditor) | Turns any GitHub repo into a career asset package — resume bullets, docs, interview prep, and code-review reports — via a multi-agent AI pipeline with real-time SSE streaming, OAuth, and Celery workers. | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,postgres,redis,docker" /> |
-| 📄 [**ATS Resume Checker**](https://github.com/adityasinha-4real/ats-checker-personal) | Fully local ATS resume checker — weighted 5-dimension scoring, keyword/skills matching, missing-keyword detection, and bulk candidate ranking. No cloud, no paid APIs. | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,tailwind" /> |
-| 🔁 [**Self-RAG**](https://github.com/adityasinha-4real/selfRAG) | Prompt-based reproduction of the Self-RAG paper's inference loop (retrieve → critique → refine) with hybrid dense+BM25 retrieval, RRF fusion, cross-encoder reranking, and an explainable-AI demo. No fine-tuning. | <img src="https://skillicons.dev/icons?i=python,fastapi,docker" /> |
-| 👁️ [**DR Detection**](https://github.com/adityasinha-4real/dr_detection) | Deep-learning system that analyzes retinal images to detect and classify stages of diabetic retinopathy, with Grad-CAM explainability and an evaluation dashboard. | <img src="https://skillicons.dev/icons?i=python,pytorch" /> |
+| Project                                                                                | Description                                                                                                                                                                                                        | Tech Stack                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| 🤖 [**AI Project Auditor**](https://github.com/adityasinha-4real/ai-project-auditor)   | Turns any GitHub repo into a career asset package — resume bullets, docs, interview prep, and code-review reports — via a multi-agent AI pipeline with real-time SSE streaming, OAuth, and Celery workers.         | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,postgres,redis,docker" /> |
+| 📄 [**ATS Resume Checker**](https://github.com/adityasinha-4real/ats-checker-personal) | Fully local ATS resume checker — weighted 5-dimension scoring, keyword/skills matching, missing-keyword detection, and bulk candidate ranking. No cloud, no paid APIs.                                             | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,tailwind" />              |
+| 🔁 [**Self-RAG**](https://github.com/adityasinha-4real/selfRAG)                        | Prompt-based reproduction of the Self-RAG paper's inference loop (retrieve → critique → refine) with hybrid dense+BM25 retrieval, RRF fusion, cross-encoder reranking, and an explainable-AI demo. No fine-tuning. | <img src="https://skillicons.dev/icons?i=python,fastapi,docker" />                          |
+| 👁️ [**DR Detection**](https://github.com/adityasinha-4real/dr_detection)              | Deep-learning system that analyzes retinal images to detect and classify stages of diabetic retinopathy, with Grad-CAM explainability and an evaluation dashboard.                                                 | <img src="https://skillicons.dev/icons?i=python,pytorch" />                                 |
 
 ---
 
@@ -125,20 +125,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,firebase,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityasinha-4real&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasinha-4real&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinha-4real&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
