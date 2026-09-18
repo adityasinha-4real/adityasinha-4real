@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://giphy.com/gifs/ravikishan-ravi-kishan-gif-epic-moment-fj6RqNrs1MqNLCFM0u">
-    <img src="https://media.giphy.com/media/fj6RqNrs1MqNLCFM0u/giphy.gif" width="250" alt="Ravi Kishan">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpZWJxN2hjdGRkM2ljY3htc2doaGkzaXExemVnMnEyNnBjdXZuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fj6RqNrs1MqNLCFM0u/giphy.gif" width="250" alt="Ravi Kishan">
   </a>
 </p>
 
