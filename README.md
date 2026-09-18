@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/argentina-messi-messi10-ulOyRvC0PmUleOOtKw">
-    <img src="https://media.giphy.com/media/ulOyRvC0PmUleOOtKw/giphy.gif" width="250" alt="Messi">
+  <a href="https://giphy.com/gifs/ravikishan-ravi-kishan-gif-epic-moment-fj6RqNrs1MqNLCFM0u">
+    <img src="https://media.giphy.com/media/fj6RqNrs1MqNLCFM0u/giphy.gif" width="250" alt="Ravi Kishan">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently building **AI Project Auditor**
+* 🔭 Currently building **RepoLens and IndicPass**
 * 🌱 Learning **System Design, LLM Engineering, MLOps, Cloud Deployment & AI Agents**
 * 👯 Open to collaborating on **AI/ML, Open Source, and Full-Stack Projects**
 * 💬 Ask me about **Python, FastAPI, React, AI Agents, LLMs, Machine Learning & Deep Learning**
