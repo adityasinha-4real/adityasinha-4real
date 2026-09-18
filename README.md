@@ -10,7 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=adityasinha-4real&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center"> <a href="https://giphy.com/gifs/argentina-messi-messi10-ulOyRvC0PmUleOOtKw"> <img src="https://media.giphy.com/media/ulOyRvC0PmUleOOtKw/giphy.gif" width="250" alt="Messi"> </a> </p>
+<p align="center">
+  <a href="https://giphy.com/gifs/lil-yachty-yacthy-computer-drake-Zbq8hgzsKIxQi3EUWV">
+    <img src="https://media.giphy.com/media/Zbq8hgzsKIxQi3EUWV/giphy.gif" width="250" alt="Lil Yachty">
+  </a>
+</p>
 
 ---
 
