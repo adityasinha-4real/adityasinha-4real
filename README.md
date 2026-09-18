@@ -10,11 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=adityasinha-4real&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://giphy.com/gifs/ravikishan-ravi-kishan-gif-epic-moment-fj6RqNrs1MqNLCFM0u">
-    <img src="https://media.giphy.com/media/fj6RqNrs1MqNLCFM0u/giphy.gif" width="250" alt="Ravi Kishan">
-  </a>
-</p>
+<p align="center"> <a href="https://giphy.com/gifs/argentina-messi-messi10-ulOyRvC0PmUleOOtKw"> <img src="https://media.giphy.com/media/ulOyRvC0PmUleOOtKw/giphy.gif" width="250" alt="Messi"> </a> </p>
 
 ---
 
