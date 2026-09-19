@@ -12,7 +12,15 @@
 
 <p align="center">
   <a href="https://giphy.com/gifs/lil-yachty-yacthy-computer-drake-Zbq8hgzsKIxQi3EUWV">
-    <img src="https://media.giphy.com/media/Zbq8hgzsKIxQi3EUWV/giphy.gif" width="250" alt="Lil Yachty">
+    <table border="3" cellpadding="4" cellspacing="0">
+      <tr>
+        <td>
+          <img src="https://media.giphy.com/media/Zbq8hgzsKIxQi3EUWV/giphy.gif"
+               width="250"
+               alt="Lil Yachty">
+        </td>
+      </tr>
+    </table>
   </a>
 </p>
 
@@ -58,12 +66,12 @@
 
 ## 🔥 Featured Projects
 
-| Project                                                                                | Description                                                                                                                                                                                                        | Tech Stack                                                                                  |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| 🤖 [**AI Project Auditor**](https://github.com/adityasinha-4real/ai-project-auditor)   | Turns any GitHub repo into a career asset package — resume bullets, docs, interview prep, and code-review reports — via a multi-agent AI pipeline with real-time SSE streaming, OAuth, and Celery workers.         | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,postgres,redis,docker" /> |
-| 📄 [**ATS Resume Checker**](https://github.com/adityasinha-4real/ats-checker-personal) | Fully local ATS resume checker — weighted 5-dimension scoring, keyword/skills matching, missing-keyword detection, and bulk candidate ranking. No cloud, no paid APIs.                                             | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,tailwind" />              |
-| 🔁 [**Self-RAG**](https://github.com/adityasinha-4real/selfRAG)                        | Prompt-based reproduction of the Self-RAG paper's inference loop (retrieve → critique → refine) with hybrid dense+BM25 retrieval, RRF fusion, cross-encoder reranking, and an explainable-AI demo. No fine-tuning. | <img src="https://skillicons.dev/icons?i=python,fastapi,docker" />                          |
-| 👁️ [**DR Detection**](https://github.com/adityasinha-4real/dr_detection)              | Deep-learning system that analyzes retinal images to detect and classify stages of diabetic retinopathy, with Grad-CAM explainability and an evaluation dashboard.                                                 | <img src="https://skillicons.dev/icons?i=python,pytorch" />                                 |
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| 🤖 [**AI Project Auditor**](https://github.com/adityasinha-4real/ai-project-auditor) | Turns any GitHub repo into a career asset package — resume bullets, docs, interview prep, and code-review reports — via a multi-agent AI pipeline with real-time SSE streaming, OAuth, and Celery workers. | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,postgres,redis,docker" /> |
+| 📄 [**ATS Resume Checker**](https://github.com/adityasinha-4real/ats-checker-personal) | Fully local ATS resume checker — weighted 5-dimension scoring, keyword/skills matching, missing-keyword detection, and bulk candidate ranking. No cloud, no paid APIs. | <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,tailwind" /> |
+| 🔁 [**Self-RAG**](https://github.com/adityasinha-4real/selfRAG) | Prompt-based reproduction of the Self-RAG paper's inference loop (retrieve → critique → refine) with hybrid dense+BM25 retrieval, RRF fusion, cross-encoder reranking, and an explainable-AI demo. No fine-tuning. | <img src="https://skillicons.dev/icons?i=python,fastapi,docker" /> |
+| 👁️ [**DR Detection**](https://github.com/adityasinha-4real/dr_detection) | Deep-learning system that analyzes retinal images to detect and classify stages of diabetic retinopathy, with Grad-CAM explainability and an evaluation dashboard. | <img src="https://skillicons.dev/icons?i=python,pytorch" /> |
 
 ---
 
